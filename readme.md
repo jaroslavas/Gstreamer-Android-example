@@ -4,7 +4,7 @@ Here is working tutorial-5 example. Code originally came from [Sebastian Dröge 
 To run this code on Android Studio, you have to make Gradle compile NDK code using .mk files
 originally made for Eclipse.
 
-Gradle code is made mainly thanks to [Gaku Uead's blog post](http://blog.gaku.net/ndk/). For some
+Gradle code is made mainly thanks to [Gaku Ueada's blog post](http://blog.gaku.net/ndk/). For some
 more details look at `app/build.gradle`.
 
 ## How to
